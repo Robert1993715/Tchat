@@ -11,7 +11,7 @@
 * Retrofit,
 * Text Recognition with ML-KIT
 ---
-#### Watch Demo : https://youtu.be/S2gbnVanKDA
+
 ---
 ## Features
 
@@ -281,11 +281,6 @@ SOFTWARE.
 ---
 
 ## Author Info
-- Linkedin- [@Mohaiminur](https://www.linkedin.com/in/mohaiminur/)
-- Youtube- [@Mohaiminur](https://www.youtube.com/channel/UC5MlwVt5vXtpHvgDHxbgqmw)
-- Facebook- [@Mohaiminur](https://facebook.com/sifat404)
-- Twitter - [@Mohaiminur](https://twitter.com/sifatkhan442)
-- Website - [Mohaiminur](https://mohaiminur.ml)
-
+Robert Jensen
 [Back To The Top](#Textchat)
 ---
